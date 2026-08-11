@@ -81,4 +81,5 @@ data/
 .npm/
 
 # Misc
-*.tgz
+*.sublime-workspace
+/backend/services/auth/serviceAccountKey.json
